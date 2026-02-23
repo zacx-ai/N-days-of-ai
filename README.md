@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-██████╗ ██╗  ██╗    ██████╗  ██████╗ ██████╗ ███████╗
-██╔══██╗╚██╗██╔╝   ██╔════╝ ██╔═══██╗██╔══██╗██╔════╝
-██████╔╝ ╚███╔╝    ██║      ██║   ██║██║  ██║█████╗  
-██╔══██╗ ██╔██╗    ██║      ██║   ██║██║  ██║██╔══╝  
-██████╔╝██╔╝ ██╗   ╚██████╗ ╚██████╔╝██████╔╝███████╗
-╚═════╝ ╚═╝  ╚═╝    ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝
+████████╗██╗  ██╗███████╗    ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ 
+╚══██╔══╝██║  ██║██╔════╝    ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗
+   ██║   ███████║█████╗      ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║
+   ██║   ██╔══██║██╔══╝      ██║███╗██║██║   ██║██╔══██╗██║     ██║  ██║
+   ██║   ██║  ██║███████╗    ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝
+   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ 
 ```
 
 </div>
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Initializing+neural+pathways...;Compiling+the+self...;Training+epoch+%E2%88%9E...;git+commit+-m+%22becoming%22)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Initializing+neural+pathways...;Compiling+the+self...;Training+epoch+%E2%88%9E...;git+commit+-m+%22becoming%22)
 
 </div>
 
