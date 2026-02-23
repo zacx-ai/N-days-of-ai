@@ -164,7 +164,7 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-STILL_TRAINING-0d0d0d?style=for-the-badge&labelColor=FFFFFF&color=0d0d0d)
+![](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-STILL__TRAINING-ffffff?style=for-the-badge&labelColor=ffffff&color=0d0d0d)
 
 </div>
 
