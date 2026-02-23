@@ -1,0 +1,26 @@
+# -------------------------
+# Ignore dataset files
+# -------------------------
+/DIV2K_*
+/data/
+*.zip
+*.tar.gz
+
+# -------------------------
+# Ignore model weights
+# -------------------------
+*.pt
+*.pth
+*.h5
+
+# -------------------------
+# Python cache / env
+# -------------------------
+__pycache__/
+*.pyc
+.env
+
+# -------------------------
+# Jupyter checkpoints (if any)
+# -------------------------
+.ipynb_checkpoints/
