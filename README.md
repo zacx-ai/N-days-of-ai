@@ -118,12 +118,7 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/LANGUAGE-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e)
-![](https://img.shields.io/badge/LANGUAGE-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1a1a2e)
-![](https://img.shields.io/badge/FRAMEWORK-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=1a1a2e)
-![](https://img.shields.io/badge/FRAMEWORK-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=1a1a2e)
-![](https://img.shields.io/badge/TOOL-Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=1a1a2e)
-![](https://img.shields.io/badge/MIND-Open-00FF41?style=flat-square&labelColor=1a1a2e)
+
 
 </div>
 
