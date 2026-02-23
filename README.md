@@ -1,28 +1,177 @@
-# Every line of code is a step toward who I’m becoming.
+<div align="center">
+
+```
+██████╗ ██╗  ██╗    ██████╗  ██████╗ ██████╗ ███████╗
+██╔══██╗╚██╗██╔╝   ██╔════╝ ██╔═══██╗██╔══██╗██╔════╝
+██████╔╝ ╚███╔╝    ██║      ██║   ██║██║  ██║█████╗  
+██╔══██╗ ██╔██╗    ██║      ██║   ██║██║  ██║██╔══╝  
+██████╔╝██╔╝ ██╗   ╚██████╗ ╚██████╔╝██████╔╝███████╗
+╚═════╝ ╚═╝  ╚═╝    ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝
+```
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Journey-blueviolet?style=for-the-badge&logo=python" alt="AI Journey">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Daily-Coding-green?style=for-the-badge&logo=github" alt="Daily Coding">
-</p>
+```
+  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  ░  ▄▀▀▀▄  ░  01001001  ░  ▄████▄  ░  [BOOT.SYS]  ░
+  ░  █   █  ░  00100000  ░  ██████  ░  > INIT_AI... ░
+  ░  ▀▄▄▄▀  ░  01000001  ░  ▀████▀  ░  > LOAD_ML...░
+  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+</div>
+
+<div align="center">
+
+# ✦ Every line of code is a step toward who I'm becoming. ✦
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/9b0e5b9b1f6d19dc5f7e4a9f607fa47ff9f4a1b1ebf5f1b3a2f7d0c3d6f91f98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506978656c2d4172742d41697374686963732d3078353132333435363f7374796c653d666f722d7468652d6261646765" alt="Pixel Art Banner" width="600"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Step by step, pixel by pixel, learning AI.</i>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Initializing+neural+pathways...;Compiling+the+self...;Training+epoch+%E2%88%9E...;git+commit+-m+%22becoming%22)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Contributions-Green?style=for-the-badge&logo=github" alt="GitHub Contributions">
-  <img src="https://img.shields.io/badge/Motivation-Fire-orange?style=for-the-badge&logo=github" alt="Motivation">
-</p>
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   > SYSTEM BOOT ..................... [▓▓▓▓▓▓▓▓] OK │
+│   > NEURAL LINK .................... [▓▓▓▓▓▓▓▓] OK │
+│   > LOADING CURIOSITY .............. [▓▓▓▓▓▓▓▓] OK │
+│   > MOUNTING /dev/imagination ...... [▓▓▓▓▓▓▓░] 87%│
+│   > SELF.COMPILE ................... [RUNNING...]   │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<div align="center">
+
+![](https://img.shields.io/badge/STATUS-EVOLVING-00FF41?style=for-the-badge&logo=matrix&logoColor=black&labelColor=0d0d0d)
+![](https://img.shields.io/badge/MODE-LEARNING-9B59B6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNS0xMC01eiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&labelColor=0d0d0d)
+![](https://img.shields.io/badge/EPOCH-∞-FF6B6B?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/LINES_WRITTEN-countless-FFD700?style=for-the-badge&labelColor=0d0d0d)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+  ╔══════════════════════════════════════════════════╗
+  ║  ██  THE JOURNEY  ██████████████████████████  ██ ║
+  ╠══════════════════════════════════════════════════╣
+  ║                                                  ║
+  ║   [■■■■■■■■■□□□]  curiosity   ................  ║
+  ║   [■■■■■■□□□□□□]  mastery     ................  ║
+  ║   [■■■■■■■■■■□□]  persistence ................  ║
+  ║   [■■■■■■■■■■■■]  passion     ................  ║
+  ║                                                  ║
+  ╚══════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
+
+*" The machine learns. So do I. "*
+
+</div>
+
+<div align="center">
+
+```
+    (\_/)   
+    (•.•)   < Hello, World — and everything after.
+   />🖥️<\   
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```
+  ┌──────┐  ┌──────┐  ┌──────┐  ┌──────┐  ┌──────┐
+  │ def  │  │train │  │debug │  │learn │  │ grow │
+  │ self │→ │model │→ │error │→ │again │→ │ ∞x   │
+  └──────┘  └──────┘  └──────┘  └──────┘  └──────┘
+```
+
+</div>
+
+<div align="center">
+
+![](https://img.shields.io/badge/LANGUAGE-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e)
+![](https://img.shields.io/badge/LANGUAGE-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1a1a2e)
+![](https://img.shields.io/badge/FRAMEWORK-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=1a1a2e)
+![](https://img.shields.io/badge/FRAMEWORK-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=1a1a2e)
+![](https://img.shields.io/badge/TOOL-Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=1a1a2e)
+![](https://img.shields.io/badge/MIND-Open-00FF41?style=flat-square&labelColor=1a1a2e)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+  ◈ ─────────────────────────────────────────── ◈
+
+      "I didn't just write code.
+           I wrote questions.
+                I wrote failures.
+                     I wrote myself."
+
+  ◈ ─────────────────────────────────────────── ◈
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```
+   0011 0111 0000 1111 0101 0100 0001 1001
+   0110 0010 ░░░░ ████ 0011 0100 ░░░░ ████
+   0000 1110 ████ ░░░░ 0101 0000 ████ ░░░░
+   0111 0001 ░░░░ ████ 0010 1111 ░░░░ ████
+   0011 0111 0000 1111 0101 0100 0001 1001
+```
+
+*— raw signal of a mind in progress —*
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-STILL_TRAINING-0d0d0d?style=for-the-badge&labelColor=00FF41&color=0d0d0d)
+
+</div>
+
+<div align="center">
+
+*crafted in the space between keystrokes*
+
+`[EOF]`
+
+</div>
