@@ -1,1 +1,1 @@
-# N-days-of-ai
+# Every line of code is a step toward who I’m becoming.
