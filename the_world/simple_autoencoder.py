@@ -4,7 +4,6 @@ from torch.nn import functional as F
 from torchvision import transforms, datasets
 from torch.utils.data import DataLoader
 import numpy as np
-import matplotlib.pyplot as plt
 
 # ==========================
 # Dataset & DataLoader
