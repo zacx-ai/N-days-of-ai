@@ -19,7 +19,7 @@ Here is the transformation showcasing the algorithm's capability:
 
 | Content Image | Style Image | Synthesized Output |
 | :---: | :---: | :---: |
-| <img src="the_world/Style_Transfer/images/content_image.jpg" width="250" height="250"> | <img src="the_world/Style_Transfer/images/style_image.jpeg" width="250" height="250"> | <img src="the_world/Style_Transfer/images/transferred_image.jpeg" width="250" height="250"> |
+| <img src="images/content_image.jpg" width="250" height="250"> | <img src="images/style_image.jpeg" width="250" height="250"> | <img src="images/transferred_image.jpeg" width="250" height="250"> |
 
 </div>
 
