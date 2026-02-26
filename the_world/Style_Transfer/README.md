@@ -15,9 +15,13 @@ The core of this implementation relies on **VGG19**, a deep pre-trained CNN. Ins
 
 Here is the transformation showcasing the algorithm's capability:
 
+<div align="center">
+
 | Content Image | Style Image | Synthesized Output |
 | :---: | :---: | :---: |
-| ![Content](content.jpg) | ![Style](style2.jpg) | ![Result](the_world/Style_Transfer/transed_image_style.jpeg) |
+| <img src="the_world/Style_Transfer/images/content_image.jpg" width="250" height="250"> | <img src="the_world/Style_Transfer/images/style_image.jpeg" width="250" height="250"> | <img src="the_world/Style_Transfer/images/transferred_image.jpeg" width="250" height="250"> |
+
+</div>
 
 ---
 
@@ -49,8 +53,8 @@ $$\mathcal{L}_{style} = \sum_{l} w_l \frac{1}{4N_l^2 M_l^2} \sum_{i,j} (Gram_{i,
 
 ### Feature Extraction Layers
 To achieve the optimal balance between structure and texture, specific activation layers were targeted:
-* **Content Layer:** `[22]` 
-* **Style Layers:** `[1, 6, 11, 20, 26]` 
+* **Content Layer:** `[22]`
+* **Style Layers:** `[1, 6, 11, 20, 26]`
 * **Weights:** Content Weight ($\alpha$) = $1$, Style Weight ($\beta$) = $10^9$
 
 ---
@@ -61,3 +65,4 @@ To achieve the optimal balance between structure and texture, specific activatio
 Ensure you have the required dependencies installed:
 ```bash
 pip install torch torchvision numpy matplotlib pillow
+```
