@@ -38,8 +38,9 @@ They train together. They get better together. The result? A Generator that can 
 > **Pure noise → handwritten digits** — watch the Generator learn over 200 epochs:
 
 <div align="center">
-  <img src="assets/cropped_gans.gif" alt="GAN Training Progress" width="600"/>
+  <img src="assets/training.gif" alt="GAN Training Progress" width="600"/>
   <br/>
+  <sub>Each frame = 1 epoch. Left: random noise. Right: the Generator's imagination.</sub>
 </div>
 
 ---
@@ -82,6 +83,38 @@ Discriminator
 
 ---
 
+## 🧠 Pretrained Model
+
+The trained Generator weights are included — no need to train from scratch.
+
+```python
+import torch
+import torch.nn as nn
+
+class Generator(nn.Module):
+    def __init__(self, in_features, hidden_features):
+        super().__init__()
+        self.gen = nn.Sequential(
+            nn.Linear(in_features, hidden_features), nn.LeakyReLU(),
+            nn.Linear(hidden_features, hidden_features), nn.LeakyReLU(),
+            nn.Linear(hidden_features, 784), nn.Tanh()
+        )
+    def forward(self, x):
+        return self.gen(x)
+
+# Load the model
+gen = Generator(in_features=100, hidden_features=128)
+gen.load_state_dict(torch.load('generator_model.pt', map_location='cpu'))
+gen.eval()
+
+# Generate digits
+noise = torch.randn(16, 100)
+with torch.no_grad():
+    fake_images = gen(noise).reshape(-1, 1, 28, 28)
+```
+
+---
+
 ## 🚀 Getting Started
 
 ### 1. Clone the repo
@@ -120,6 +153,23 @@ Epoch 200  |  Disc Loss: 0.65  |  Gen Loss: 1.55
 
 *(Approximate values — actual results may vary by run)*
 
+---
+
+## 📁 Project Structure
+
+```
+simple-gan-mnist/
+│
+├── simple_gan.ipynb        # Main training notebook
+├── generator_model.pt     # Pretrained Generator weights
+├── assets/
+│   └── cropped_gans.gif   # Generator progress animation
+├── data/                  # MNIST dataset (auto-downloaded)
+├── runs/                  # TensorBoard logs
+└── README.md
+```
+
+---
 
 ## 🔮 What's Next?
 
