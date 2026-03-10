@@ -38,7 +38,7 @@ They train together. They get better together. The result? A Generator that can 
 > **Pure noise → handwritten digits** — watch the Generator learn over 200 epochs:
 
 <div align="center">
-  <img src="assets/training.gif" alt="GAN Training Progress" width="600"/>
+  <img src="assets/cropped_gans.gif" alt="GAN Training Progress" width="600"/>
   <br/>
   <sub>Each frame = 1 epoch. Left: random noise. Right: the Generator's imagination.</sub>
 </div>
