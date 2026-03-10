@@ -40,7 +40,6 @@ They train together. They get better together. The result? A Generator that can 
 <div align="center">
   <img src="assets/cropped_gans.gif" alt="GAN Training Progress" width="600"/>
   <br/>
-  <sub>Each frame = 1 epoch. Left: random noise. Right: the Generator's imagination.</sub>
 </div>
 
 ---
